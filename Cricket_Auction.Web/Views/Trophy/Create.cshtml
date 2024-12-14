@@ -1,0 +1,56 @@
+﻿@model Cricket_Auction.Web.ViewModels.TrophyViewModel
+
+<div class="modal-header">
+    <h5 class="modal-title">Create Trophy</h5>
+    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+        @* <span aria-hidden="true">&times;</span>*@
+    </button>
+</div>
+
+<form id="createForm" method="post">
+
+    <div class="modal-body">
+
+        <div class="form-group">
+            <label>Trophy Name</label>
+            <input class="form-control" name="TrophyName" />
+            <br />
+        </div>
+
+
+        <div class="form-group">
+            <label>Trophy Description</label>
+            <input class="form-control" name="TrophyDescription" />
+            <br />
+        </div>
+
+    </div>
+    <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button class="btn btn-success" type="button" id="saveButton">Save</button>
+    </div>
+
+</form>
+
+
+
+<script>
+
+    $("#saveButton").click(function () {
+
+        $.ajax({
+            url: "@Url.Action("Create", "Trophy")",
+            method: "post",
+            data: $("#createForm").serialize()
+
+        }).done(function (response) {
+            debugger;
+            $("#listingArea").html(response);
+            $('#formModel').modal('toggle');
+
+        });
+    });
+
+
+</script>
+

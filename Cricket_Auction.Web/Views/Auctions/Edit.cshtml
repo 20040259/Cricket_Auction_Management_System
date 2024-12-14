@@ -1,0 +1,159 @@
+﻿@model Cricket_Auction.Web.ViewModels.CreateAuctionViewModel
+
+<div class="modal-header">
+    <h5 class="modal-title">Edit Auction</h5>
+    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+        @*<span aria-hidden="true">&times;</span>*@
+    </button>
+</div>
+
+<form id="editForm" method="post">
+
+    <div class="modal-body">
+        <input type="hidden" name="ID" value="@Model.ID" />
+
+        <div class="form-group">
+            <label>Name</label>
+            <input class="form-control" name="Title" value="@Model.Title" />
+            <br />
+        </div>
+
+        <div class="form-group">
+            <label>Team Name</label>
+            <select class="form-control" name="CategoryID">
+                @foreach (var category in Model.Categories)
+                {
+                    var selected = category.ID == Model.CategoryID ? "selected" : string.Empty;
+
+                    <option value="@category.ID" @selected>@category.TeamName</option>
+                    @*<option></option>*@
+                }
+            </select>
+            <br />
+        </div>
+
+        <div class="form-group">
+            <label>Description</label>
+            <input class="form-control" name="Description" value="@Model.Description" />
+            <br />
+        </div>
+
+        <div class="form-group">
+            <label>ActualAmount</label>
+            <input class="form-control" name="ActualAmount" value="@Model.ActualAmount" />
+            <br />
+        </div>
+
+        <div class="form-group">
+            <label>Status</label>
+            <select class="form-select" name="Status">
+                <option value="@Model.Status">@Model.Status</option>
+                <option value="Sold">Sold</option>
+                <option value="Unsold">Unsold</option>
+            </select>
+            <br />
+        </div>
+
+        <div class="form-group">
+            <label>StartingTime</label>
+            <input class="form-control" name="StartingTime" type="text" value="@Model.StartingTime" />
+            <br />
+        </div>
+
+        <div class="form-group">
+            <label>EndingTime</label>
+            <input class="form-control" name="EndingTime" type="text" value="@Model.EndingTime" />
+            <br />
+        </div>
+
+        <div class="form-group">
+            <label>Select Pictures</label>
+            <input id="auctionPictures" class="form-control" name="AuctionPictures" type="file" multiple />
+            <div id="pictureArea" class="mt-2"></div>
+            @if (Model.AuctionPicturesList != null && Model.AuctionPicturesList.Count > 0)
+            {
+                foreach (var picture in Model.AuctionPicturesList)
+                {
+                    <img class='image img-thumbnail' src='/Content/images/@picture.Picture.URL' data-id="@picture.ID" style="width: 200px; height: 200px" />
+                }
+            }
+
+            <input type="hidden" name="AuctionPictures" id="pictureIDs" />
+        </div>
+
+    </div>
+
+    <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button class="btn btn-success" type="button" id="saveButton">Save</button>
+    </div>
+
+</form>
+
+
+
+<script>
+
+    RemoveImagesOnClick();
+
+    $("#saveButton").click(function () {
+
+        var imageIDs = [];
+
+        $("#pictureArea .image").each(function () {
+
+            var imageID = $(this).attr("data-id");
+
+            imageIDs.push(imageID);
+        });
+
+        $("#pictureIDs").val(imageIDs.join());
+
+        $.ajax({
+            url: "@Url.Action("Edit", "Auctions")",
+            method: "post",
+            data: $("#editForm").serialize()
+
+        }).done(function (response) {
+            $("#listingArea").html(response);
+            $('#formModel').modal('toggle');
+        });
+    });
+
+     $("#auctionPictures").change(function () {
+
+        var pictures = this.files;
+        var picData = new FormData();
+
+        for (var i = 0; i < pictures.length; i++)
+        {
+            picData.append("Picture", pictures[i]);
+        }
+
+
+        $.ajax({
+            url: "@Url.Action("UploadPictures", "Shared")",
+            type: "post",
+            data: picData,
+            dateType: "json",
+            processData: false,
+            contentType: false
+
+        }).done(function (responses) {
+            debugger;
+
+            for (var i = 0; i < responses.length; i++)
+            {
+                var picResponse = responses[i];
+
+                AttachNewImage(picResponse.pictureURL, picResponse.ID);
+
+            }
+
+            //$("#listingArea").html(response);
+            //$('#formModel').modal('toggle');
+
+        });
+     });
+
+</script>

@@ -1,0 +1,85 @@
+﻿@model Cricket_Auction.Web.ViewModels.AuctionDetailsViewModel
+
+<section class="py-3">
+    <div class="border border-3 rounded-1">
+        <div class="container px-3 px-lg-3 my-3">
+            <div class="row gx-4 gx-lg-3 align-items-center">
+                <div class="col-md-6">
+
+                    @if (Model.Auction.AuctionPictures != null && Model.Auction.AuctionPictures.Count > 0)
+                    {
+                        var firstAuctionPicture = Model.Auction.AuctionPictures.First();
+                        var i = 0;
+
+                        <div id="carouselIndicators" class="carousel slide" data-bs-ride="carousel">
+                            <ol class="carousel-indicators">
+
+                                @foreach (var picture in Model.Auction.AuctionPictures)
+                                {
+                                    var active = picture == firstAuctionPicture ? "active" : string.Empty;
+
+                                    <li class="@active" data-bs-target="#carouselIndicators" data-bs-slide-to="@i"></li>
+                                    i++;
+                                }
+
+                            </ol>
+                            <div class="carousel-inner">
+
+                                @foreach (var auctionPicture in Model.Auction.AuctionPictures)
+                                {
+                                    var active = auctionPicture == firstAuctionPicture ? "active" : string.Empty;
+
+                                    var picURL = "/Content/images/" + auctionPicture.Picture.URL;
+
+                                    <div class="carousel-item @active">
+
+                                        <img class="d-block rounded w-100" src="@picURL" />
+                                    </div>
+                                }
+
+                            </div>
+                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselIndicators" data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Previous</span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#carouselIndicators" data-bs-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Next</span>
+                            </button>
+                        </div>
+
+                    }
+                </div>
+                <div class="col-md-6">
+                    <!---<div class="small mb-1">SKU: BST-498</div>--->
+                    <h1 class="display-5 fw-bolder">@Model.Auction.Title</h1>
+                    <div class="display-5">
+                        <span>@Model.Auction.ActualAmount</span>
+                        <span>@Model.Auction.Status</span>
+                        @*<input type="text" id="inc" value="0" />*@
+                        <input type="text" id="inc" value="@Model.Auction.ActualAmount" style="border:none" readonly />
+                    </div>
+
+                    <h4>@Model.Auction.Description</h4>
+                    <br />
+                    @*<input class="form-control text-center me-3" id="inputQuantity" type="num" value="1" style="max-width: 3rem" />*@
+                    <button onclick="buttonClick()" class="btn btn-warning" id="btn">
+                        BIT NOW
+                    </button>
+                    @* <input type="text" id="inc" value="@Model.Auction.ActualAmount"/>*@
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script>
+       
+    var i = document.getElementById('inc').value;
+    function buttonClick() {
+       i++;
+        document.getElementById('inc').value = i;
+    }
+      
+    </script>

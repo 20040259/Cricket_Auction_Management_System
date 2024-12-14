@@ -1,0 +1,57 @@
+﻿@model Cricket_Auction.Web.ViewModels.CategoriesListingViewModel
+
+@{
+    ViewBag.Title = "Teams Report";
+    //Layout = "~/Views/Shared/_DashboardLayout.cshtml";
+}
+<html>
+
+<head>
+    <link href="~/Content/css/styles.css" rel="stylesheet" />
+</head>
+
+<body>
+
+    <h2>  Teams Deails Report</h2>
+
+    <br />
+    <table class="table">
+        <thead>
+            <tr>
+                <th>TeamName</th>
+
+                <th>TeamDescription</th>
+
+                <th>Max Price</th>
+
+                <th>Auctions</th>
+
+            </tr>
+        </thead>
+
+        <tbody>
+
+            @foreach (var category in Model.Categories)
+            {
+                <tr>
+
+                    <td>@category.TeamName</td>
+
+                    <td>@category.TeamDescription</td>
+
+                    <td>@category.MaxPrice</td>
+
+                    <td>@category.Auctions.Count()</td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</body>
+</html>
+
+
+
+
+

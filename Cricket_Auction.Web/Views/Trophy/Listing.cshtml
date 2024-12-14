@@ -1,0 +1,93 @@
+﻿@model Cricket_Auction.Web.ViewModels.TrophiesListingViewModel
+
+<table class="table table-striped table-hover">
+    <thead>
+        <tr>
+            <th>Trophy Name</th>
+
+            <th> Trophy Description</th>
+
+            <th>No.applicant players</th>
+
+            <th>Actions</th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+        @foreach(var trophy in Model.Trophies)
+        {
+            <tr>
+
+                <td>@trophy.TrophyName</td>
+
+                <td>@trophy.TrophyDescription</td>
+
+                <td>@trophy.players.Count()</td>
+
+                <!--<td> <button>Delete</button>data-toggle="modal" data-target="#formModal" </td>-->
+                <td><button class="editButton btn btn-primary" data-id="@trophy.ID" data-bs-toggle="modal" data-bs-target="#formModal">Edit</button></td>
+                <td><button class="deleteButton btn btn-danger" data-id="@trophy.ID" data-bs-toggle="modal" data-bs-target="#deleteModal">Delete</button></td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+
+<script>
+
+    $(".editButton").click(function () {
+        $.ajax({
+            url: "@Url.Action("Edit", "Trophy")",
+            method: "get",
+            data: {
+                ID: $(this).attr("data-id")
+            }
+        }).done(function (response) {
+           debugger;
+            $("#contentArea").html(response);
+            $('#formModel').modal('toggle');
+        });
+    });
+
+
+    $(".deleteButton").click(function () {
+
+        $('#deleteModel').modal('toggle');
+        $('#mDeleteButton').attr("data-recordID", $(this).attr("data-id"));
+
+    });
+
+    @*$(".deleteButton").click(function () {
+
+        var result = confirm("Are you sure you want to delete this auction?");
+
+        if (result == true) {
+
+            $.ajax({
+            url: "@Url.Action("Delete", "Auctions")",
+            method: "post",
+            data: {
+                ID: $(this).attr("data-id")
+            }
+            }).done(function (response) {
+            $("#listingArea").html(response);
+            $('#deleteModal').modal('toggle');
+
+            });
+        }
+
+    });*@
+
+
+
+
+
+</script>
+
+
+
+
+
+
+

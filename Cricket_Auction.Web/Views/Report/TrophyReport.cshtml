@@ -1,0 +1,55 @@
+﻿@model Cricket_Auction.Web.ViewModels.TrophiesListingViewModel
+
+@{
+    ViewBag.Title = "Trophy Details Report";
+    //Layout = "~/Views/Shared/_DashboardLayout.cshtml";
+}
+<html>
+
+<head>
+    <link href="~/Content/css/styles.css" rel="stylesheet" />
+</head>
+
+<body>
+
+    <h2>  Trophy Deails Report</h2>
+
+    <br />
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Trophy Name</th>
+
+                <th> Trophy Description</th>
+
+                <th>No.applicant players</th>
+
+            </tr>
+        </thead>
+
+        <tbody>
+
+            @foreach (var trophy in Model.Trophies)
+            {
+                <tr>
+
+                    <td>@trophy.TrophyName</td>
+
+                    <td>@trophy.TrophyDescription</td>
+
+                    <td>@trophy.players.Count()</td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>
+
+
+
+
+
+
+
+

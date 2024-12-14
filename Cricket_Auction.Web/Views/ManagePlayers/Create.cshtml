@@ -1,0 +1,194 @@
+﻿@model Cricket_Auction.Web.ViewModels.ManagePlayerViewModel
+
+<div class="modal-header">
+    <h5 class="modal-title">Create New Player</h5>
+    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+        @* <span aria-hidden="true">&times;</span>*@
+    </button>
+</div>
+
+<form id="createForm" method="post" action="/ManagePlayers/Create/">
+
+    <div class="modal-body">
+
+        @* <div class="form-group">*@
+
+        @*<input type="file" name="ImageFile" onchange="preview()" required />
+        <img id="thumb" src="" width="200" height="200" />*@
+
+        @*<label>PictureURL</label>
+            <input type="text" name="PictureURL" class="form-control" placeholder="First Name" />
+        </div><br />*@
+
+        <div class="form-group">
+            <label>Trophy type</label>
+            <select class="form-control" name="TrophyID">
+               @foreach(var trophy in Model.Trophies)
+               { 
+                   <option value="@trophy.ID">@trophy.TrophyName</option>
+               }
+            </select>
+        </div><br />
+
+        <div class="form-group">
+            <label>First Name</label>
+            <input type="text" name="FirstName" class="form-control" placeholder="First Name" />
+        </div><br />
+
+        <div class="form-group">
+            <label>Last Name</label>
+            <input type="text" name="LastName" class="form-control" placeholder="Last Name" />
+        </div><br />
+
+        <div class="form-group">
+            <label>User Name</label>
+            <input type="text" name="UserName" class="form-control" placeholder="User Name" />
+        </div><br />
+
+        <div class="form-group">
+            <label>Email</label>
+            <input type="email" name="Email" class="form-control" placeholder="Email" />
+        </div><br />
+
+        <div class="form-group">
+            <label>Password</label>
+            <input type="password" name="Password" class="form-control" placeholder="Password" />
+        </div><br />
+
+        <div class="form-group">
+            <label>Gender</label>
+
+            <input type="radio" name="Gender" value="Male" class="form-check-input" />
+            <label>Male</label>
+
+            <input type="radio" name="Gender" value="Female" class="form-check-input" />
+            <label>Female</label>
+
+        </div><br />
+
+        <div class="form-group">
+            <label>Player Role</label>
+            <select class="form-select" name="PlayerRole">
+                <option value="Bowler">Bowler</option>
+                <option value="Batsman">Batsman</option>
+                <option value="All Rounder">All Rounder</option>
+            </select>
+        </div><br />
+
+        <div class="form-group">
+            <label>Description</label>
+            <input type="text" name="Description" class="form-control" placeholder="Description" />
+        </div><br />
+
+
+        @*<div class="form-group">
+            <label>Select Pictures</label>
+            <input id="auctionPictures" class="form-control" name="AuctionPictures" type="file" multiple />
+            <div id="pictureArea" class="mt-2"></div>
+            <input type="hidden" name="AuctionPictures" id="pictureIDs" />
+        </div>
+
+        <div id="formErrors" class="form-group bg-danger" style="display:none">
+            <label>Select Pictures</label>
+        </div>*@
+
+    </div>
+    <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button class="btn btn-success" type="button" id="saveButton">Save</button>
+    </div>
+
+</form>
+
+
+<script>
+
+
+
+    $("#saveButton").click(function () {
+        //debugger;
+
+        //var imageIDs = [];
+
+        //$("#pictureArea .image").each(function () {
+
+        //    var imageID = $(this).attr("data-id");
+
+        //    imageIDs.push(imageID);
+        //});
+
+        //$("#pictureIDs").val(imageIDs.join());
+
+        $.ajax({
+            url: "@Url.Action("Create", "ManagePlayers")",
+            method: "post",
+            data: $("#createForm").serialize()
+
+        }).done(function (response) {
+            debugger;
+            //if (response.Success)
+            //{
+                ReloadListing();
+            $('#formModel').modal('toggle');
+
+        });
+
+    });
+        //    }
+        //    else
+        //    {
+        //        $("#formErrors").html(response.Error);
+        //        $("#formErrors").show();
+        //    }
+
+       
+    //upload multiple auction images
+    @*$("#auctionPictures").change(function () {
+
+        var pictures = this.files;
+        var picData = new FormData();
+
+        for (var i = 0; i < pictures.length; i++)
+        {
+            picData.append("PicturePly", pictures[i]);
+        }
+
+
+        $.ajax({
+            url: "@Url.Action("UploadPictures", "Shared")",
+            type: "post",
+            data: picData,
+            dateType: "json",
+            processData: false,
+            contentType: false
+
+        }).done(function (responses) {
+            debugger;
+
+            for (var i = 0; i < responses.length; i++)
+            {
+                var picResponse = responses[i];
+
+                AttachNewImage(picResponse.pictureURL, picResponse.ID);
+
+            }
+
+            //$("#listingArea").html(response);
+            //$('#formModel').modal('toggle');
+
+        });
+    });*@
+
+    //function AttachNewImage(imageURL, imageID) {
+
+    //    var $newimgHtml = $("#imageTemplate").clone();
+
+    //    $newimgHtml.find(".image").attr("src", "/Content/images/" + imageURL);
+    //    $newimgHtml.find(".image").attr("data-id", imageID);
+
+    //    $("#pictureArea").append($newimgHtml.html());
+
+    //    RemoveImagesOnClick();
+    //}
+
+</script>

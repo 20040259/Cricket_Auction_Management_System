@@ -1,0 +1,82 @@
+﻿@model Cricket_Auction.Web.ViewModels.ManagePlayersListingViewModel
+
+
+@{
+    ViewBag.Title = "Players Report";
+    //Layout = "~/Views/Shared/_DashboardLayout.cshtml";
+}
+<html>
+
+<head>
+    <link href="~/Content/css/styles.css" rel="stylesheet" />
+</head>
+
+<body>
+
+    <h2>  Players Deails Report</h2>
+
+    <br />
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Trophy</th>
+
+                <th>Full Name</th>
+
+                <th>User Name</th>
+
+                <th>Email</th>
+
+                <th>Gender</th>
+
+                <th>Player Role</th>
+
+                <th>Description</th>
+
+            </tr>
+        </thead>
+
+        <tbody>
+            @if (Model.players != null && Model.players.Count > 0)
+            {
+                foreach (var Player in Model.players)
+                {
+                    <tr>
+
+                        <td>
+                            <input type="hidden" value="@Player.ID" />
+                            @Player.Trophy.TrophyName
+                        </td>
+
+                        <td>
+                            @Player.FirstName  @Player.LastName
+                        </td>
+
+                        <td>@Player.Username</td>
+
+                        <td>@Player.Email</td>
+
+                        <td>@Player.Gender</td>
+
+                        <td>@Player.PlayerRole</td>
+
+                        <td>@Player.Description</td>
+
+                    </tr>
+                }
+            }
+           
+            </tbody>
+        </table>
+
+    </body>
+</html>
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,166 @@
+﻿@model Cricket_Auction.Web.ViewModels.AuctionsListingViewModel
+
+
+<br />
+<table class="table table-striped table-hover">
+    <thead>
+        <tr>
+            <th> Player Name</th>
+
+            <th>Team</th>
+
+            <th>Description</th>
+
+            <th>Actual Amount</th>
+
+            <th>Status</th>
+
+            <th>Starting Time</th>
+
+            <th>Ending Time</th>
+
+            <th>Actions</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @if (Model.Auctions != null && Model.Auctions.Count > 0)
+        {
+            foreach (var auction in Model.Auctions)
+         {
+        <tr>
+
+            <td>
+                <input type="hidden" value="@auction.ID" />
+                @auction.Title
+            </td>
+
+            <td>@auction.Category.TeamName</td>
+
+            <td>@auction.Description</td>
+
+            <td>@auction.ActualAmount</td>
+
+            <td>@auction.ActualAmount</td>
+
+            <td>@auction.StartingTime</td>
+
+            <td>@auction.EndingTime</td>
+
+            <!--<td> <button>Delete</button>data-toggle="modal" data-target="#formModal" </td>-->
+            <td><button class="editButton btn btn-primary" data-id="@auction.ID" data-bs-toggle="modal" data-bs-target="#formModal">Edit</button></td>
+            <td><button class="deleteButton btn btn-danger" data-id="@auction.ID" data-bs-toggle="modal" data-bs-target="#deleteModal">Delete</button></td>
+
+        </tr>
+         }
+        }
+        else 
+        {
+            <tr>
+                <td class="text-center" colspan="7"> No Results Found</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@*@if(Model.Pager != null && Model.Pager.TotalPages > 0)
+{ 
+    <nav aria-label="Page navigation example">
+        <ul class="pagination justify-content-center">
+
+            @if (Model.Pager.CurrentPage == 1)
+            {
+                <li class="page-item disabled">
+                    <a class="page-link" href="#">Previous</a>
+                </li>
+            }
+            else
+            {
+                <li class="page-item">
+                    <a class="page-link" href="@Url.Action("Index", "Auctions", new { pageNo = Model.Pager.CurrentPage - 1, categoryID = Model.CategoryID, searchTerm = Model.SearchTerm })">Previous</a>
+                </li>
+            }
+
+            @for (int page = Model.Pager.StartPage; page < Model.Pager.EndPage + 1; page++)
+            {
+                var active = page == Model.Pager.CurrentPage ? "active" : string.Empty;
+
+                <li class="page-item @active">
+                    <a class="page-link" href="@Url.Action("Index", "Auctions", new { pageNo = page })">
+                        @page
+                    </a>
+                </li>
+            }
+
+            @if (Model.Pager.CurrentPage == Model.Pager.EndPage)
+            {
+                <li class="page-item disabled">
+                    <a class="page-link" href="#">Next</a>
+                </li>
+            }
+            else
+            {
+                <li class="page-item">
+                    <a class="page-link" href="@Url.Action("Index", "Auctions", new { pageNo = Model.Pager.CurrentPage + 1, categoryID = Model.CategoryID, searchTerm = Model.SearchTerm })">Next</a>
+                </li>
+            }
+
+        </ul>
+    </nav>
+}*@
+
+<script>
+
+    $(".editButton").click(function () {
+        $.ajax({
+            url: "@Url.Action("Edit", "Auctions")",
+            method: "get",
+            data: {
+                ID: $(this).attr("data-id")
+            }
+        }).done(function (response) {
+           debugger;
+            $("#contentArea").html(response);
+            $('#formModel').modal('toggle');
+        });
+    });
+
+
+    $(".deleteButton").click(function () {
+
+        $('#deleteModel').modal('toggle');
+        $('#mDeleteButton').attr("data-recordID", $(this).attr("data-id"));
+
+    });
+
+    @*$(".deleteButton").click(function () {
+
+        var result = confirm("Are you sure you want to delete this auction?");
+
+        if (result == true) {
+
+            $.ajax({
+            url: "@Url.Action("Delete", "Auctions")",
+            method: "post",
+            data: {
+                ID: $(this).attr("data-id")
+            }
+            }).done(function (response) {
+            $("#listingArea").html(response);
+            $('#deleteModal').modal('toggle');
+
+            });
+        }
+
+    });*@
+
+        
+
+
+
+</script>
+
+
+
+
+
