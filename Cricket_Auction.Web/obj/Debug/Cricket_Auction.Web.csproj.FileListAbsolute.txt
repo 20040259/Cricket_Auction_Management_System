@@ -1,0 +1,654 @@
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Web.dll.config
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Web.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Web.pdb
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\csc.exe
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\csc.exe.config
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\csc.rsp
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\csi.exe
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\csi.exe.config
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\csi.rsp
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.AppContext.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Console.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Net.Http.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\vbc.exe
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\vbc.exe.config
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\vbc.rsp
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\Antlr3.Runtime.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Entities.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Services.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\EntityFramework.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\Newtonsoft.Json.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.Helpers.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.Mvc.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.Optimization.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.Razor.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.WebPages.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\WebGrease.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Data.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Entities.pdb
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Services.pdb
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Services.dll.config
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\EntityFramework.xml
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.Helpers.xml
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.Mvc.xml
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.Optimization.xml
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.Razor.xml
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.WebPages.xml
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\Newtonsoft.Json.xml
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\Antlr3.Runtime.pdb
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Data.pdb
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Data.dll.config
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\obj\Debug\Cricket_Auction.Web.csproj.AssemblyReference.cache
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\obj\Debug\Cricket_Auction.Web.csproj.CoreCompileInputs.cache
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\obj\Debug\Cricket_Auction.Web.csproj.CopyComplete
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\obj\Debug\Cricket_Auction.Web.dll
+C:\Users\AYANI ILANKA\source\repos\Cricket_Auction\Cricket_Auction.Web\obj\Debug\Cricket_Auction.Web.pdb
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Web.dll.config
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Web.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Web.pdb
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\csc.exe
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\csc.exe.config
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\csc.rsp
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\csi.exe
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\csi.exe.config
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\csi.rsp
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.Managed.Core.targets
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.AppContext.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Console.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Globalization.Calendars.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.IO.Compression.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Net.Http.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Net.Sockets.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.ValueTuple.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Xml.XPath.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\vbc.exe
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\vbc.exe.config
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\vbc.rsp
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\VBCSCompiler.exe
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\Antlr3.Runtime.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Entities.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Services.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\EntityFramework.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\EntityFramework.SqlServer.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\Newtonsoft.Json.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.Helpers.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.Mvc.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.Optimization.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.Razor.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.WebPages.Deployment.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.WebPages.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.WebPages.Razor.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\WebGrease.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Data.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Entities.pdb
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Services.pdb
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Services.dll.config
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\EntityFramework.xml
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\EntityFramework.SqlServer.xml
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.Helpers.xml
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.Mvc.xml
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.Optimization.xml
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.Razor.xml
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.WebPages.xml
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.WebPages.Deployment.xml
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.WebPages.Razor.xml
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\Newtonsoft.Json.xml
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\Antlr3.Runtime.pdb
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Data.pdb
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Data.dll.config
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\obj\Debug\Cricket_Auction.Web.csproj.AssemblyReference.cache
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\obj\Debug\Cricket_Auction.Web.csproj.CoreCompileInputs.cache
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\obj\Debug\Cricket_Auction.Web.csproj.CopyComplete
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\obj\Debug\Cricket_Auction.Web.dll
+D:\vs_project\Asp_projects\Cricket_Auction\Cricket_Auction.Web\obj\Debug\Cricket_Auction.Web.pdb
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Web.dll.config
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Web.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Web.pdb
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\csc.exe
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\csc.exe.config
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\csc.rsp
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\csi.exe
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\csi.exe.config
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\csi.rsp
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.Managed.Core.targets
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.AppContext.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Console.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Globalization.Calendars.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.IO.Compression.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Net.Http.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Net.Sockets.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.ValueTuple.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Xml.XPath.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\vbc.exe
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\vbc.exe.config
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\vbc.rsp
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\VBCSCompiler.exe
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Antlr3.Runtime.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Data.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Entities.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Services.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\EntityFramework.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\EntityFramework.SqlServer.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Antiforgery.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Authorization.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Cors.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Http.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.JsonPatch.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Localization.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Razor.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Razor.Language.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Routing.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.CodeAnalysis.CSharp.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.CodeAnalysis.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.CodeAnalysis.Razor.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.DependencyModel.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.FileProviders.Composite.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Localization.Abstractions.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Localization.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.ObjectPool.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Options.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Primitives.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.WebEncoders.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Net.Http.Headers.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Owin.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Win32.Registry.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Newtonsoft.Json.Bson.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Newtonsoft.Json.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Owin.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Rotativa.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\System.Buffers.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\System.Collections.Immutable.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\System.ComponentModel.Annotations.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\System.Diagnostics.DiagnosticSource.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\System.Reflection.Metadata.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\System.Security.AccessControl.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\System.Security.Cryptography.Xml.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\System.Security.Principal.Windows.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\System.Text.Encoding.CodePages.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\System.Text.Encodings.Web.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.Helpers.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.Mvc.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.Optimization.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.Razor.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.WebPages.Deployment.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.WebPages.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.WebPages.Razor.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\WebGrease.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Data.pdb
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Data.dll.config
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Entities.pdb
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Entities.dll.config
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Services.pdb
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Services.dll.config
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\EntityFramework.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\EntityFramework.SqlServer.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Antiforgery.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Authorization.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Cors.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Http.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.JsonPatch.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Localization.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.RazorPages.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Razor.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Razor.Language.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Routing.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.CodeAnalysis.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.CodeAnalysis.CSharp.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.CodeAnalysis.Razor.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.FileProviders.Composite.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Localization.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Localization.Abstractions.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.ObjectPool.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Options.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Primitives.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.WebEncoders.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Net.Http.Headers.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Owin.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Newtonsoft.Json.Bson.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\System.Buffers.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\System.Collections.Immutable.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\System.Diagnostics.DiagnosticSource.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\System.Reflection.Metadata.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\System.Text.Encodings.Web.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.Helpers.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.Mvc.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.Optimization.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.Razor.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.WebPages.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.WebPages.Deployment.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.WebPages.Razor.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Newtonsoft.Json.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Antlr3.Runtime.pdb
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\obj\Debug\Cricket_Auction.Web.csproj.AssemblyReference.cache
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\obj\Debug\Cricket_Auction.Web.csproj.CoreCompileInputs.cache
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\obj\Debug\Cricket_Auction.Web.csproj.CopyComplete
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\obj\Debug\Cricket_Auction.Web.dll
+D:\vs_project\ad2\Cricket_Auction\Cricket_Auction.Web\obj\Debug\Cricket_Auction.Web.pdb
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Web.dll.config
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Web.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Web.pdb
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\csc.exe
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\csc.exe.config
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\csc.rsp
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\csi.exe
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\csi.exe.config
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\csi.rsp
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.Managed.Core.targets
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.AppContext.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Console.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Globalization.Calendars.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.IO.Compression.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Net.Http.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Net.Sockets.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.ValueTuple.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Xml.XPath.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\vbc.exe
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\vbc.exe.config
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\vbc.rsp
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\VBCSCompiler.exe
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Antlr3.Runtime.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Data.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Entities.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Services.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\EntityFramework.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\EntityFramework.SqlServer.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Antiforgery.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Authorization.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Cors.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Http.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.JsonPatch.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Localization.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Razor.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Razor.Language.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Routing.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.CodeAnalysis.CSharp.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.CodeAnalysis.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.CodeAnalysis.Razor.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.DependencyModel.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.FileProviders.Composite.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Localization.Abstractions.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Localization.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.ObjectPool.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Options.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Primitives.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.WebEncoders.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Net.Http.Headers.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Owin.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Win32.Registry.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Newtonsoft.Json.Bson.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Newtonsoft.Json.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Owin.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Rotativa.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\System.Buffers.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\System.Collections.Immutable.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\System.ComponentModel.Annotations.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\System.Diagnostics.DiagnosticSource.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\System.Reflection.Metadata.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\System.Security.AccessControl.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\System.Security.Cryptography.Xml.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\System.Security.Principal.Windows.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\System.Text.Encoding.CodePages.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\System.Text.Encodings.Web.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.Helpers.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.Mvc.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.Optimization.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.Razor.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.WebPages.Deployment.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.WebPages.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.WebPages.Razor.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\WebGrease.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Data.pdb
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Data.dll.config
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Entities.pdb
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Entities.dll.config
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Services.pdb
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Cricket_Auction.Services.dll.config
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\EntityFramework.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\EntityFramework.SqlServer.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Antiforgery.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Authorization.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Cors.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Http.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.JsonPatch.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Localization.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.RazorPages.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Razor.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Razor.Language.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Routing.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.CodeAnalysis.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.CodeAnalysis.CSharp.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.CodeAnalysis.Razor.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.FileProviders.Composite.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Localization.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Localization.Abstractions.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.ObjectPool.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Options.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.Primitives.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Extensions.WebEncoders.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Net.Http.Headers.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.Owin.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Newtonsoft.Json.Bson.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\System.Buffers.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\System.Collections.Immutable.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\System.Diagnostics.DiagnosticSource.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\System.Reflection.Metadata.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\System.Text.Encodings.Web.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.Helpers.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.Mvc.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.Optimization.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.Razor.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.WebPages.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.WebPages.Deployment.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\System.Web.WebPages.Razor.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Newtonsoft.Json.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Antlr3.Runtime.pdb
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\obj\Debug\Cricket_Auction.Web.csproj.AssemblyReference.cache
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\obj\Debug\Cricket_Auction.Web.csproj.CoreCompileInputs.cache
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\obj\Debug\Cricket_Auction.Web.csproj.CopyComplete
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\obj\Debug\Cricket_Auction.Web.dll
+D:\esoft_projects\AD_CW2\Cricket_Auction\Cricket_Auction.Web\obj\Debug\Cricket_Auction.Web.pdb
